@@ -11,7 +11,7 @@ Screenshots
 
 <center>![alt tag](https://raw.githubusercontent.com/Mozharovsky/CVCalendar/master/Screenshots/Demo.gif)</center>
 
-Arcitecture
+Architecture
 ==========
 
 This calendar is designed according to all object oriented patterns. There are a few types of objects where a particular instance does its specific stuff. I've tried to separate Views from all the stuff it shouldn't do itself (e.g. calculations, date management etc). 
